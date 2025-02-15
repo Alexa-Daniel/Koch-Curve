@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1671532280 source:d:\elev\11a 2021\fractal\main.cpp
+	<iostream>
+	<math.h>
+	"graphics2.h"
+
+1370613880 d:\elev\11a 2021\fractal\graphics2.h
+
+1370613912 source:d:\elev\11a 2021\fractal\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1370613912 source:c:\users\claudiu\desktop\fractal\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1370613880 c:\users\claudiu\desktop\fractal\graphics2.h
+
+1673088384 source:c:\users\claudiu\desktop\fractal\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	"graphics2.h"
+
+1370613912 source:d:\info\clasele 9-12\fractal nemodif\fractal\fractal\winbgi2.cpp
+	<windows.h>
+	<stddef.h>
+	<stdio.h>
+	<math.h>
+	"graphics2.h"
+
+1370613880 d:\info\clasele 9-12\fractal nemodif\fractal\fractal\graphics2.h
+
+1673088728 source:d:\info\clasele 9-12\fractal nemodif\fractal\fractal\main.cpp
+	<iostream>
+	<cstdio>
+	<stdlib.h>
+	<math.h>
+	"graphics2.h"
+
